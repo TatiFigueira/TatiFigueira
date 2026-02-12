@@ -8,41 +8,41 @@ Sou uma Analista de QA com foco estratégico em garantir a qualidade de platafor
 
 ### 🛠️ Expertise Técnica
 
-- [cite_start]**Estratégia de Teste:** Testes Manuais, Funcionais, Regressão, Testes de API (REST) e validação de Webhooks.
-- [cite_start]**Automação de Testes:** Desenvolvimento de scripts com Robot Framework, Selenium e Cucumber.
-- [cite_start]**Linguagens e Ferramentas:** Python, Java, Postman, Jira e GitHub.
-- [cite_start]**Processos Ágeis:** Vivência em Scrum, escrita de cenários com BDD (Gherkin) e gestão do Ciclo de Vida de Bugs[cite: 8, 11].
+- **Estratégia de Teste:** Testes Manuais, Funcionais, Regressão, Testes de API (REST) e validação de Webhooks.
+- **Automação de Testes:** Desenvolvimento de scripts com Robot Framework, Selenium e Cucumber.
+- **Linguagens e Ferramentas:** Python, Java, Postman, Jira e GitHub.
+- **Processos Ágeis:** Vivência em Scrum, escrita de cenários com BDD (Gherkin) e gestão do Ciclo de Vida de Bugs.
 
 ---
 
 ### 🚀 Experiência e Impacto
 
 Atualmente, dedico-me a elevar o padrão de qualidade em plataformas de alta escala, onde realizei:
-- [cite_start]**Otimização de Testes de API:** Validação de respostas transacionais e comunicação entre sistemas integrados[cite: 16].
-- [cite_start]**Documentação Técnica:** Criação de suítes de teste em BDD para aumentar a cobertura de requisitos de negócio[cite: 15].
-- [cite_start]**Garantia de Estabilidade:** Foco em fluxos de alta criticidade como pagamentos e planos de assinatura[cite: 14].
+- **Otimização de Testes de API:** Validação de respostas transacionais e comunicação entre sistemas integrados.
+- **Documentação Técnica:** Criação de suítes de teste em BDD para aumentar a cobertura de requisitos de negócio.
+- **Garantia de Estabilidade:** Foco em fluxos de alta criticidade como pagamentos e planos de assinatura.
 
 ---
 
 ### 🎓 Educação e Evolução
 
-- [cite_start]**Graduação:** Análise e Desenvolvimento de Sistemas – UNINOVE (Em andamento)[cite: 26].
-- [cite_start]**Certificações:** Especialização em Robot Framework e Postman via Udemy[cite: 26].
+- **Graduação:** Análise e Desenvolvimento de Sistemas – UNINOVE (Em andamento).
+- **Certificações:** Especialização em Robot Framework e Postman via Udemy.
 
 ---
 
 ### 📈 Contribuições no GitHub
 *(Ative as "Private contributions" nas configurações do gráfico para visualizar minha frequência de commits em projetos profissionais)*
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TatiFigueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+(https://github-readme-stats.vercel.app/api?username=TatiFigueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ---
 
 ### 📫 Contato
 
-- [cite_start]**LinkedIn:** [linkedin.com/in/tatiana-figueira-008981150/](https://www.linkedin.com/in/tatiana-figueira-008981150/) [cite: 3]
-- [cite_start]**Email:** tatianafigueira.89@gmail.com [cite: 3]
-- [cite_start]**Localização:** Rio de Janeiro - RJ [cite: 2]
+- **LinkedIn:** [linkedin.com/in/tatiana-figueira-008981150/](https://www.linkedin.com/in/tatiana-figueira-008981150/) 
+- **Email:** tatianafigueira.89@gmail.com 
+- **Localização:** Rio de Janeiro - RJ 
 
 ---
 *"A qualidade é a base da confiança do usuário final."*
