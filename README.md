@@ -13,6 +13,18 @@ Sou uma Analista de QA com foco estratégico em garantir a qualidade de platafor
 - **Linguagens e Ferramentas:** Python, Java, Postman, Jira e GitHub.
 - **Processos Ágeis:** Vivência em Scrum, escrita de cenários com BDD (Gherkin) e gestão do Ciclo de Vida de Bugs.
 
+  ### 💻 Linguagens e Ferramentas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/jira-%230a4595.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+</div>
+
 ---
 
 ### 🚀 Experiência e Impacto
