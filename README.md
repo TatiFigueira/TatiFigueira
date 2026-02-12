@@ -43,13 +43,6 @@ Atualmente, dedico-me a elevar o padrão de qualidade em plataformas de alta esc
 
 ---
 
-### 📈 Contribuições no GitHub
-*(Ative as "Private contributions" nas configurações do gráfico para visualizar minha frequência de commits em projetos profissionais)*
-
-(https://github-readme-stats.vercel.app/api?username=TatiFigueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
----
-
 ### 📫 Contato
 
 - **LinkedIn:** [linkedin.com/in/tatiana-figueira-008981150/](https://www.linkedin.com/in/tatiana-figueira-008981150/) 
